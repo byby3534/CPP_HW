@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E356F7D-B045-4A62-BFA1-D74196FB3171}|CPP_HW1\\CPP_HW1.vcxproj|C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E356F7D-B045-4A62-BFA1-D74196FB3171}|CPP_HW1\\CPP_HW1.vcxproj|solutionrelative:CPP_HW1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E356F7D-B045-4A62-BFA1-D74196FB3171}|CPP_HW1\\CPP_HW1.vcxproj|C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\Phone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6E356F7D-B045-4A62-BFA1-D74196FB3171}|CPP_HW1\\CPP_HW1.vcxproj|solutionrelative:CPP_HW1\\Phone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Phone.h",
-              "DocumentMoniker": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\Phone.h",
-              "RelativeDocumentMoniker": "CPP_HW1\\Phone.h",
-              "ToolTip": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\Phone.h",
-              "RelativeToolTip": "CPP_HW1\\Phone.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-29T07:58:19.248Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\main.cpp",
               "RelativeDocumentMoniker": "CPP_HW1\\main.cpp",
-              "ToolTip": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\main.cpp*",
-              "RelativeToolTip": "CPP_HW1\\main.cpp*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwEUAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW1\\CPP_HW1\\main.cpp",
+              "RelativeToolTip": "CPP_HW1\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T07:43:21.83Z",
               "EditorCaption": ""
