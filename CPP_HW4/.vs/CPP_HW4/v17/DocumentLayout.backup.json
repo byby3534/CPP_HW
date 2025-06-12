@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8118E093-3596-4C18-B84D-E23CAF314752}|CPP_HW4\\CPP_HW4.vcxproj|C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW4\\CPP_HW4\\CPP_HW4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8118E093-3596-4C18-B84D-E23CAF314752}|CPP_HW4\\CPP_HW4.vcxproj|solutionrelative:CPP_HW4\\CPP_HW4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPP_HW4.cpp",
+              "DocumentMoniker": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW4\\CPP_HW4\\CPP_HW4.cpp",
+              "RelativeDocumentMoniker": "CPP_HW4\\CPP_HW4.cpp",
+              "ToolTip": "C:\\Users\\cksck\\Desktop\\GitHub\\CPP_HW\\CPP_HW4\\CPP_HW4\\CPP_HW4.cpp",
+              "RelativeToolTip": "CPP_HW4\\CPP_HW4.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwLAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T01:19:35.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
