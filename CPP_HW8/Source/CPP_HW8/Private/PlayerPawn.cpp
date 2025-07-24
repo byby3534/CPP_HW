@@ -123,7 +123,7 @@ void APlayerPawn::Tick(float DeltaTime)
 
 	bIsGround = GetWorld()->LineTraceSingleByChannel(HitResult, StartTrace, EndTrace, ECC_Visibility, CollisionParams);
 
-	DrawDebugLine(
+	/*DrawDebugLine(
 		GetWorld(),
 		StartTrace,
 		EndTrace,
@@ -132,7 +132,7 @@ void APlayerPawn::Tick(float DeltaTime)
 		0.0f,
 		0,
 		1.0f
-	);
+	);*/
 
 	if (!bIsGround)
 	{
@@ -170,7 +170,7 @@ void APlayerPawn::Tick(float DeltaTime)
 		AddActorWorldOffset(SlideDelta, true);
 
 		// 디버그 표시
-		DrawDebugSphere(GetWorld(), MoveHit.ImpactPoint, 10, 12, FColor::Blue);
+		// DrawDebugSphere(GetWorld(), MoveHit.ImpactPoint, 10, 12, FColor::Blue);
 	}
 }
 
